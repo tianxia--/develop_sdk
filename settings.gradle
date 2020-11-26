@@ -1,0 +1,6 @@
+include ':commond'
+include ':log'
+include ':UIMonitor'
+rootProject.name = 'Blue_App'
+
+include ':test'
